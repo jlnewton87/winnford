@@ -17,6 +17,11 @@
 }
 /*            /helpers             */
 
+/*
+=====================================
+        Main Site Features
+=====================================
+*/
 .logo {
   width: 800px;
   height: 210px;
@@ -24,3 +29,4 @@
   margin-left: auto;
   margin-right:auto;
 }
+/*      /main site features        */
