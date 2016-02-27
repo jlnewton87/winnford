@@ -22,6 +22,9 @@
         Main Site Features
 =====================================
 */
+body {
+  background-color: #dad6cd;
+}
 .logo {
   width: 800px;
   height: 210px;
@@ -30,3 +33,23 @@
   margin-right:auto;
 }
 /*      /main site features        */
+
+/*
+=====================================
+        Minor Site Features
+=====================================
+*/
+.orange-fill {
+  background-color: #e68a00;
+}
+/*      /minor site features       */
+
+/*
+=====================================
+        Bootstrap Overrides
+=====================================
+*/
+.container {
+  background-color: white;
+}
+/*      /bootstrap overrides       */
