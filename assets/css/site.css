@@ -1,0 +1,26 @@
+/*
+=====================================
+    Helper classes FOR DEV ONLY
+=====================================
+*/
+.red {
+  border: 1px solid red;
+}
+.green {
+  border: 1px solid green;
+}
+.blue {
+  border: 1px solid blue;
+}
+.yellow {
+  border: 1px solid yellowgreen;
+}
+/*            /helpers             */
+
+.logo {
+  width: 800px;
+  height: 210px;
+  display: block;
+  margin-left: auto;
+  margin-right:auto;
+}
