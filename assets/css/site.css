@@ -42,6 +42,27 @@ body {
 .orange-fill {
   background-color: #e68a00;
 }
+.green-fill {
+  background-color: #00b33c;
+}
+.blue-fill {
+  background-color: #0099e6;
+}
+.sub-heading {
+  border-radius: 6px;
+  -moz-border-radius: 6px;
+  -webkit-border-radius: 6px;
+  height: 120px;
+  margin-bottom: 5px;
+}
+.sub-heading-box-content {
+  padding-top: 6px;
+  padding-left: 6px;
+}
+.sub-heading-box-content h3 {
+  color: white;
+}
+
 /*      /minor site features       */
 
 /*
